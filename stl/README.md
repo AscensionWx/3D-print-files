@@ -4,7 +4,7 @@ To produce a full sensor enclosure, the one needs to print multiples of some pie
 
 Here is the full list:
 
-1 Top
-3 Shrowd
-1 Mid Plate
-1 Hook
+- 1 Top
+- 3 Shrowd
+- 1 Mid Plate
+- 1 Hook
